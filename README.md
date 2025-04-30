@@ -29,7 +29,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone oscargil/ai-docs-prompt
 cd ai_docs_prompt
 ```
 
